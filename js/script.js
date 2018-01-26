@@ -6,8 +6,6 @@ if (c>0) {
     alert('Wynik jest dodatni');
   } else if (c<0) {
   alert('Wynik jest ujemny');
-  } else if (c=0) {
-  alert('Wynik to zero');
   } else {
-  	alert('Obydwie liczby powinny zostac zadeklarowane')
+  alert('Wynik to zero');
   }
